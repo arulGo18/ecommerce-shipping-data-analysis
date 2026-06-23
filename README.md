@@ -144,7 +144,7 @@ PowerBI/EDC.pbix
 
 **Ilyas Yasin Nurulah**
 
-Information Systems Student
+Informatics Student
 
 Interested in:
 
